@@ -8,3 +8,9 @@ b,e,f=g(w),g(w.replace('\n',' ').split()),w.split('\n')
 d,c,a=g(max(f)),g(f),g(open(q,'rb').read())
 
 print(a,b,c,d,e,f)
+#a: bytes read
+#b: characters read
+#c: lines read
+#d: longest line read
+#e: words read
+#f: lines
